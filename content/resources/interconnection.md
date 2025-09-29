@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/791dc34d1381dd35c6a66f3558c8b8eb_interconnection.pdf
 file_size: 273776
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

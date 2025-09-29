@@ -4,6 +4,8 @@ description: Bitonic Sorting on Butterfly, Routing Perms by Sorting
 file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/fabdbcca9859b2121d96f1f822985549_lect14.pdf
 file_size: 278504
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

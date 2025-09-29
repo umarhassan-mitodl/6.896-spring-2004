@@ -5,6 +5,8 @@ description: Problems and solutions on defining the size of a circuit ans 'c-slo
 file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/b958761c3cd39620debac9e146fa429a_sol5.pdf
 file_size: 74447
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

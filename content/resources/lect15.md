@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/ee97dc32f0b73464ad5f2cd2fb3a5345_lect15.pdf
 file_size: 108757
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

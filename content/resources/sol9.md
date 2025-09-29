@@ -4,6 +4,8 @@ description: Problems and Lemma and solutions on VLSI Layout and Binary Tree.
 file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/09ef06f20ee18156a3a02457a7a6f5d2_sol9.pdf
 file_size: 81847
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
