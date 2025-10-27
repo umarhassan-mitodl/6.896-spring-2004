@@ -4,8 +4,6 @@ description: Problems on defining the size of a circuit ans 'c-slow' circuits
 file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/13268e75e4cd5d70bfc43d3624697370_ps5.pdf
 file_size: 31695
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

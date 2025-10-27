@@ -4,8 +4,6 @@ description: Problems on Transistor and CMOS equivalent NOR Gate and network rou
 file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/4d0fd76f27a28bbd853238a22a788e7a_ps8.pdf
 file_size: 24066
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

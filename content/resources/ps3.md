@@ -4,8 +4,6 @@ description: Problems on Fast Division.
 file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/222621c3812e9fd88c268bc10bd0ca02_ps3.pdf
 file_size: 23630
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

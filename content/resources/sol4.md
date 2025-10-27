@@ -4,8 +4,6 @@ description: Problems and solutions on Systolic Arrays.
 file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/17d1ab90e3621179916ba19fa56092db_sol4.pdf
 file_size: 34378
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
